@@ -594,6 +594,7 @@ h4.dark {
 
 /* ///////////////////////////////////////////////////RESPONSIVE/////////////////////////////////////////////////// */
 
+/* Kleinere browser */
 @media (max-width: 923px) {
     .playlist_container {
         width: 700px;
@@ -638,6 +639,7 @@ h4.dark {
     }
 }
 
+/* Ipad */
 @media (max-width: 768px) {
     nav {
         position: initial;
@@ -681,6 +683,7 @@ h4.dark {
     }
 }
 
+/* Iphone 6/7/8 */
 @media (max-width: 620px) {
     nav {
         position: inherit;
@@ -694,7 +697,7 @@ h4.dark {
     }
     .blue_box {
         width: 702px;
-        height: 600px;
+        height: 570px;
         background-size: auto;
         padding-top: 30px;
     }
