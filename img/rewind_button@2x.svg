@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #4b4b4b;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="35.323" height="23.323"/>
+    </clipPath>
+  </defs>
+  <g id="rewind_btn" data-name="rewind btn" transform="translate(-548 -1084)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="30" cy="30" r="30" transform="translate(548 1084)"/>
+    <g id="rewind_icon" data-name="rewind icon" transform="translate(1)">
+      <g id="rewind" class="cls-3" transform="translate(561.816 1103.25)">
+        <path id="Path_22" data-name="Path 22" class="cls-4" d="M0,2.2,16.492,0l-2.2,16.492Z" transform="translate(11.662 23.323) rotate(-135)"/>
+        <path id="Path_23" data-name="Path 23" class="cls-4" d="M0,2.2,16.492,0l-2.2,16.492Z" transform="translate(23.662 23.323) rotate(-135)"/>
+      </g>
+    </g>
+  </g>
+</svg>

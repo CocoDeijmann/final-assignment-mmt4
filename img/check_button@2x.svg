@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.268" height="26.718" viewBox="0 0 55.268 26.718">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #bbffb2;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #119100;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="22.596" height="15.814"/>
+    </clipPath>
+  </defs>
+  <g id="tab" transform="translate(-197 -848)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="55.268" height="26.718" rx="13.359" transform="translate(197 848)"/>
+    <g id="done_icon" data-name="done icon" class="cls-3" transform="translate(213.301 853.362)">
+      <path id="Path_20" data-name="Path 20" class="cls-4" d="M17.947,37.3a1.155,1.155,0,0,0,.788.31,1.065,1.065,0,0,0,.788-.338L33.058,23.742a1.134,1.134,0,1,0-1.6-1.6L18.735,34.913l-5.994-5.994a1.134,1.134,0,1,0-1.6,1.6Z" transform="translate(-10.8 -21.8)"/>
+    </g>
+  </g>
+</svg>
